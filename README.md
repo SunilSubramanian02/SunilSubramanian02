@@ -38,6 +38,16 @@
 ### 🎧 Featured Project:
 **VibeSync – Mood-Based Music App**  
 > Pick a mood and vibe with handpicked song suggestions!
+> ---
+
+### 🌟 Other Mini Projects:
+
+- 📆 **To-Do List App**  
+  A simple task tracker built with HTML, CSS, and JS.  
+  🔗 [Live Demo](https://sunilsubramanian02.github.io/todo-app) | 📁 [Source Code](https://github.com/SunilSubramanian02/todo-app)
+
+---
+
 
 🔗 [Live Demo](https://sunilsubramanian02.github.io/vibesync)  
 📂 Source: [GitHub Repo](https://github.com/SunilSubramanian02/vibesync)
