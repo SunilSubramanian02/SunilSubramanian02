@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm <span style="color:#f39c12">Sunilram</span></h1>
+<h1 align="center">Hey there! 👋 I'm <span style="color:#f39c12">Sunil Subramanian R</span></h1>
 <h3 align="center">💻 An Aspiring Full Stack Developer from India 🇮🇳</h3>
 
 ---
